@@ -1,5 +1,5 @@
 on: [workflow_dispatch]
-name: Push in Azure registry
+name: Push into Azure registry
 
 jobs:
     build-and-deploy:
